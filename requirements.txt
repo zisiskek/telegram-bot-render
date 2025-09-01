@@ -1,3 +1,0 @@
-aiogram==3.13.1
-pytz
-matplotlib
